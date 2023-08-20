@@ -36,6 +36,10 @@ header, ul{
     display: flex;
 }
 
+ul{
+    width: 50rem;
+}
+
 header{
     font-size: 2rem;
 }
