@@ -40,6 +40,10 @@ header{
     font-size: 2rem;
 }
 
+header button{
+    display: none;
+}
+
 /* main */
 
 main, section{
